@@ -1,10 +1,10 @@
 <h1>
-  <img src="https://github.com/pocketmine-school/MyPlugin/blob/main/icon.png" height="64" width="64" style="vertical-align: middle;"> 
+  <img src="https://github.com/pocketmine-school/MyPlugin/blob/main/PluginName/icon.png" height="64" width="64" style="vertical-align: middle;"> 
   My Plugin
 </h1><br/>
 <div align="left">
-  <img src="https://github.com/pocketmine-school/MyPlugin/main/assets/img/screenshot.png" height="150" width="250" align="left" style="margin-right: 15px;">
-  <p>The Xbox plugin for PocketMine-MP allows players to view Xbox profiles directly in-game. By using a simple command, players can retrieve detailed information about a specified Xbox gamertag, including username, gamer score, account tier, and more. This plugin is designed to enhance the gaming experience by providing quick and easy access to Xbox profile data.</p>
+  <img src="https://cdn.pixabay.com/photo/2017/02/10/00/10/minecraft-2053886_1280.png" height="150" width="250" align="left" style="margin-right: 15px;">
+  <p>Lorem ipsum es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías o de bocetos para diseños para probar el arte visual antes de insertar el texto final. Su uso en algunos editores de texto muy conocidos en la actualidad ha dado al texto lorem ipsum nueva popularidad.</p>
 </div>
 
 <br clear="both"/>
