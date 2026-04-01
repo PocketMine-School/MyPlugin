@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://github.com/pocketmine-school/MyPlugin/blob/main/icon.png" height="64" width="64" style="vertical-align: middle;"> 
+  <img src="https://github.com/pocketmine-school/MyPlugin/blob/main/PluginName/icon.png" height="64" width="64" style="vertical-align: middle;"> 
   My Plugin
 </h1><br/>
 <div align="left">
