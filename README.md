@@ -12,15 +12,15 @@ Ideal para principiantes que quieren iniciarse en el desarrollo de plugins.
   </tr>
   <tr>
     <td>📥 Downloads</td>
-    <td><a href="https://github.com/pocketmine-school/MyPlugin"><img src="https://img.shields.io/github/downloads/pocketmine-school/MyPlugin/total" alt="Downloads"></a></td>
+    <td><a href="https://github.com/PocketMine-School/MyPlugin"><img src="https://img.shields.io/github/downloads/PocketMine-School/MyPlugin/total" alt="Downloads"></a></td>
   </tr>
   <tr>
     <td>🏷️ Version</td>
-    <td><a href="https://github.com/pocketmine-school/MyPlugin/releases/latest"><img src="https://img.shields.io/github/v/release/pocketmine-school/MyPlugin" alt="Version"></a></td>
+    <td><a href="https://github.com/PocketMine-School/MyPlugin/releases/latest"><img src="https://img.shields.io/github/v/release/PocketMine-School/MyPlugin" alt="Version"></a></td>
   </tr>
   <tr>
     <td>⭐ Stars</td>
-    <td><a href="https://github.com/pocketmine-school/MyPlugin"><img src="https://img.shields.io/github/stars/pocketmine-school/MyPlugin" alt="Stars"></a></td>
+    <td><a href="https://github.com/PocketMine-School/MyPlugin"><img src="https://img.shields.io/github/stars/PocketMine-School/MyPlugin" alt="Stars"></a></td>
   </tr>
 </table>
 
