@@ -1,0 +1,18 @@
+name: PluginName
+main: TStark\PluginName\Main
+version: 1.0.0
+api: X.0.0
+author: §bT. Stark
+description: §6Descripcion.
+website: §awww.tstark.dev
+
+commands:
+  ejemplo1:
+    description: "Comando de Ejemplo"
+    usage: "/ejemplo1"
+    permission: "ejemplo1.command"
+
+permissions:
+  ejemplo1.command:
+    description: "Hello World"
+    default: true
