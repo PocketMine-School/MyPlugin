@@ -1,0 +1,10 @@
+# Configuración principal de PluginName
+version: "1.0.0"
+
+settings:
+  prefix: "§a[PluginName]§r"
+  language: "es"
+  
+database:
+  type: "sqlite"
+  path: "plugin_data.sqlite"
